@@ -1,4 +1,4 @@
-# Data Science Projectts
+# Data Science Projects
  Just a collection of my data science practices and projects 
 Name: Ng Wei Han
 Age: 19 
